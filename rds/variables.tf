@@ -8,4 +8,4 @@ variable "database_instance_class" {}
 variable "availability_zone_1" {}
 variable "database_instance_identifier" {}
 variable "multi_az_deployment" {}
-variable "vpc_id" {}
+variable "database_security_group_id" {}
